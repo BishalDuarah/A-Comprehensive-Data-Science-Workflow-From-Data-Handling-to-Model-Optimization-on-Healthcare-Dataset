@@ -28,7 +28,7 @@ a)Visualized the data in a 2D space using the first two principal components.
 b)Used color to differentiate target classes.
 
 TASK-4:Model Evaluation & Comparison.
-OBJECTIVE:To apply and compare various supervised learning models.
+OBJECTIVE:To apply and compare various supervised learning models of a Heart Disease Dataset.
 Models Used:a)Logistic Regression b)Support Vector Machine(SVM) c)K-Nearest Neighbors(K-NN) d)Naive Bayes e)Decision Tree f)Random Forest
 Evaluation Metric: Accuracy Score.
 Result Summary:
