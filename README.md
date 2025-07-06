@@ -40,7 +40,15 @@ Random Forest	88.88%
 KNN                   81.48%
 Decision Tree         68.51%
 
-TASK-5:
-
+TASK-5:Boosting & Hyperparameter Tuning
+OBJECTIVE:To compare boosting models and apply hyperparameter tuning.
+Models Used:
+a)XGBoost
+b)CatBoost
+Techniques for Tuning:Used GridSearchCV for-> a)Logistic Regression(tuning C) b)SVM(tuning C, kernel) c)Random Forest(tuning n_estimators, max_depth, min_samples_split)
+Important Concepts:
+a)Boosting: Improves performance by combining weak learners.
+b)XGBoost & CatBoost: Advanced boosting algorithms for tabular data.
+c)Hyperparameter Tuning: Used cross-validation(cv=5) to find optimal values.
 
            
