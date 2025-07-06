@@ -18,7 +18,7 @@ TASK-2:Data Visualization with Matplotlib & Seaborn.
 OBJECTIVE:To Visualize Numerical Data for better understanding of distribution and patterns.
 VISUALIZATIONS PERFORMED:a)Line Graph b)Bar Graph c)Scatter Plot d)Density Plot e)Violin Plot f)Box Plot
 
-TASK-3:Dimensionality Reduction using PCA
+TASK-3:Dimensionality Reduction using PCA.
 OBJECTIVE:To Reduce Dimensions and Identify Principal Components.
 WORK DONE:
 a)Applied Principal Component Analysis(PCA) to the dataset.
